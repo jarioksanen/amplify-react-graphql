@@ -1,0 +1,14 @@
+{
+  "resourceName": "NotesAppStorage",
+  "policyUUID": "8083e890",
+  "bucketName": "amplifyreactgraphql7bb5884667514b68a17df39b091d",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
